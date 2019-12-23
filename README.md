@@ -6,7 +6,7 @@ Uses the Civic Information API to create a report that displays representatives 
 ## Skills:
 - Build an API query, make a GET request, parse the returned JSON content using `jsonlite`
 - Use `httr` to Send a request for all members of the house of representatives
-- Render R Markdown files as HTML files using knitr
+- Render `R Markdown` files as `HTML` files using `knitr`
 - Practice `data.frame` manipulation and data formatting
 - Request the representative address from the `/representatives` endpoint
 - Create a table by using a data frame that is rendered using the `kable()` function
